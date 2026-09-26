@@ -131,6 +131,7 @@
 - [LeetCode Database Problems](https://leetcode.com/problemset/database/) – SQL problem-solving practice.
 - [SQL Style Guide](https://www.sqlstyle.guide/) – Best practices and conventions.
 - [QueryCase](https://querycase.com) - Browser-based SQL learning game with detective-themed cases covering SELECT through window functions.
+- [Caso Abierto](https://caso-abierto.christianvadillo.workers.dev) - Detective game solved by writing real SQL in the browser with DuckDB-WASM; first case free, full game paid.
 - [Use The Index, Luke](https://use-the-index-luke.com/) - A free guide to SQL indexing and query performance for developers.
 
 ## Related Awesome Lists
