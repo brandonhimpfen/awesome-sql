@@ -79,6 +79,7 @@
 - [pg](https://github.com/brianc/node-postgres) – PostgreSQL driver.
 - [mysql2](https://github.com/sidorares/node-mysql2) – MySQL client.
 - [better-sqlite3](https://github.com/WiseLibs/better-sqlite3) – SQLite client.
+- [@shtora/d1](https://github.com/orgShtora-1/d1) – TypeScript client for Cloudflare D1; pre-release (v0.1.0), not yet published to npm.
 
 ### Python
 - [psycopg](https://github.com/psycopg/psycopg) – PostgreSQL driver.
