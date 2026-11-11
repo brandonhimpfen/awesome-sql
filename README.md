@@ -1,12 +1,12 @@
 # Awesome SQL [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
-[![Support Open Work](https://img.shields.io/badge/Support-Open%20Work-0A0A0A?style=flat&logo=github)](https://github.com/brandonhimpfen/support) 
-[![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) 
-[![Buy Me a Coffee](https://srv-cdn.himpfen.io/badges/buymeacoffee/buymeacoffee-flat.svg)](https://buymeacoffee.com/brandonhimpfen) 
-[![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/brandonhimpfen) 
-[![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://www.paypal.com/donate/?hosted_button_id=3LLKRXJU44EJJ) <br />
-[![X](https://srv-cdn.himpfen.io/badges/twitter/twitter-flat.svg)](https://x.com/ListsAwesome) 
-[![Facebook](https://srv-cdn.himpfen.io/badges/facebook-pages/facebook-pages-flat.svg)](https://www.facebook.com/awesomelists)
+[![Support Open Work](https://srv-cdn.himpfen.io/badges/support-open-work.svg)](https://github.com/brandonhimpfen/support) 
+[![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github-sponsor.svg)](https://github.com/sponsors/brandonhimpfen) 
+[![Buy Me a Coffee](https://srv-cdn.himpfen.io/badges/buymeacoffee.svg)](https://buymeacoffee.com/brandonhimpfen) 
+[![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi.svg)](https://ko-fi.com/brandonhimpfen) 
+[![PayPal](https://srv-cdn.himpfen.io/badges/paypal.svg)](https://www.paypal.com/donate/?hosted_button_id=3LLKRXJU44EJJ) <br />
+[![X](https://srv-cdn.himpfen.io/badges/twitter.svg)](https://x.com/ListsAwesome) 
+[![Facebook](https://srv-cdn.himpfen.io/badges/facebook-pages.svg)](https://www.facebook.com/awesomelists)
 
 > A curated list of SQL databases, tools, clients, query builders, learning resources, extensions, and ecosystem utilities for working with structured data and relational databases.
 
@@ -79,6 +79,7 @@
 - [pg](https://github.com/brianc/node-postgres) – PostgreSQL driver.
 - [mysql2](https://github.com/sidorares/node-mysql2) – MySQL client.
 - [better-sqlite3](https://github.com/WiseLibs/better-sqlite3) – SQLite client.
+- [@shtora/d1](https://github.com/orgShtora-1/d1) – TypeScript client for Cloudflare D1; pre-release (v0.1.0), not yet published to npm.
 
 ### Python
 - [psycopg](https://github.com/psycopg/psycopg) – PostgreSQL driver.
