@@ -5,8 +5,8 @@
 [![Buy Me a Coffee](https://srv-cdn.himpfen.io/badges/buymeacoffee/buymeacoffee-flat.svg)](https://buymeacoffee.com/brandonhimpfen) 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/brandonhimpfen) 
 [![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://www.paypal.com/donate/?hosted_button_id=3LLKRXJU44EJJ) <br />
-[![X](https://srv-cdn.himpfen.io/badges/twitter.svg)](https://x.com/ListsAwesome) 
-[![Facebook](https://srv-cdn.himpfen.io/badges/facebook-pages.svg)](https://www.facebook.com/awesomelists)
+[![X](https://srv-cdn.himpfen.io/badges/twitter/twitter-flat.svg)](https://x.com/ListsAwesome) 
+[![Facebook](https://srv-cdn.himpfen.io/badges/facebook-pages/facebook-pages-flat.svg)](https://www.facebook.com/awesomelists)
 
 > A curated list of SQL databases, tools, clients, query builders, learning resources, extensions, and ecosystem utilities for working with structured data and relational databases.
 
